@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @beatrizmotta
 - 👀 I’m interested in JavaScript, Node, Reactive Programming, API integrations
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning WebDevelompent
+- 💞️ I’m looking to collaborate on tools to make people's lifes better
 - 📫 How to reach me: https://linkedin.com/in/motta-beatriz
 
 <!---
