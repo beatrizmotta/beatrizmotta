@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beatrizmotta
-- 👀 Currently working with JavaScript, Node, Reactive Programming, API integrations
-- 🌱 Learning RUST
+- 👀 Currently working with JavaScript, NodeJS, SQL Server, API integrations
+- 🌱 Learning Rust 
 - 📫 How to reach me: https://linkedin.com/in/motta-beatriz
 
 <!---
