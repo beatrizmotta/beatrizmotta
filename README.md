@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @beatrizmotta
 - 👀 Currently working with JavaScript, NodeJS, SQL Server, API integrations
+- 💼 Intern Developer at Casa da Indústria Napoleão Barbosa - SESI Alagoas
 - 🌱 Learning Rust 
 - 📫 How to reach me: https://linkedin.com/in/motta-beatriz
 
