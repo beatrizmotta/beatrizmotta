@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @beatrizmotta
-- 👀 Currently working with JavaScript, NodeJS, SQL Server, API integrations
+- 👀 Currently working with JavaScript, NodeJS, SQL Server
 - 📫 How to reach me: https://linkedin.com/in/motta-beatriz
 
 <!---
